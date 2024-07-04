@@ -1,0 +1,22 @@
+.task-actions {
+    display: flex;
+    gap: 5px;
+}
+
+.edit-btn {
+    background-color: #2ecc40;
+    color: #fff;
+    border: none;
+    padding: 5px 10px;
+    cursor: pointer;
+}
+
+.edit-btn:hover {
+    background-color: #3d9970;
+}
+
+.edit-input {
+    font-size: 16px;
+    padding: 5px;
+    width: 100%;
+}
